@@ -13,7 +13,7 @@ namespace VezbaPatterni
             Console.WriteLine("Delmethod {0}", message);
         }
 
-//sasa
+//sasa23112
         //pravim promenu za test gita
         
         static void Main(string[] args)
