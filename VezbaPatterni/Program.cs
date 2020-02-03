@@ -14,7 +14,7 @@ namespace VezbaPatterni
         }
 
 
-        
+        //pravim promenu za test gita
         
         static void Main(string[] args)
         {
