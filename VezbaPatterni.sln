@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VezbaPatterni", "VezbaPatterni\VezbaPatterni.csproj", "{1DDD0156-BDC9-4AEC-832C-896DE93BC19E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VezbaPatterni.Test", "VezbaPatterni.Test\VezbaPatterni.Test.csproj", "{D801C3E1-43A4-4C9D-9AE6-84A8590844A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDD0156-BDC9-4AEC-832C-896DE93BC19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDD0156-BDC9-4AEC-832C-896DE93BC19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDD0156-BDC9-4AEC-832C-896DE93BC19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDD0156-BDC9-4AEC-832C-896DE93BC19E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D801C3E1-43A4-4C9D-9AE6-84A8590844A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D801C3E1-43A4-4C9D-9AE6-84A8590844A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D801C3E1-43A4-4C9D-9AE6-84A8590844A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D801C3E1-43A4-4C9D-9AE6-84A8590844A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

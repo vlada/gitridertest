@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\vladimirsk\.nuget\packages\microsoft.net.test.sdk\16.2.0\build\netcoreapp1.0" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\vladimirsk\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\vladimirsk\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vladimirsk\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_VezbaPatterni.1565338577.00" t="ExcludeRecursive" />
+    <e p="C:\Users\vladimirsk\RiderProjects\VezbaPatterni" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="VezbaPatterni" t="IncludeRecursive">
+        <e p="AbstractFactory" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FactoryMethod" t="Include">
+          <e p="ClientApp.cs" t="Include" />
+          <e p="ConcreteCreator1.cs" t="Include" />
+          <e p="ConcreteCreator2.cs" t="Include" />
+          <e p="IProduct.cs" t="Include" />
+          <e p="Product1.cs" t="Include" />
+          <e p="Product2.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="VezbaPatterni.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ProgramToAnInterfaceNotAnImplementation" t="Include">
+          <e p="Company" t="Include">
+            <e p="Company.cs" t="Include" />
+            <e p="DeveloperCompany.cs" t="Include" />
+            <e p="GameCompany.cs" t="Include" />
+          </e>
+          <e p="Entities" t="Include">
+            <e p="Designer.cs" t="Include" />
+            <e p="Developer.cs" t="Include" />
+            <e p="IEmployee.cs" t="Include" />
+          </e>
+          <e p="Main.cs" t="Include" />
+        </e>
+        <e p="VezbaPatterni.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="VezbaPatterni.sln" t="IncludeFlat" />
+      <e p="VezbaPatterni.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FactoryMethod.Test" t="Include">
+          <e p="FactoryMethodTest.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="VezbaPatterni.Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="VezbaPatterni.Test.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
